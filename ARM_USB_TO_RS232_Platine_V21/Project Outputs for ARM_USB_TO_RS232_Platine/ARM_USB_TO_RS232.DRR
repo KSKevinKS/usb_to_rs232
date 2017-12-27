@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ARM_USB_TO_RS232.PcbDoc   07.12.2017  20:25:08
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ARM_USB_TO_RS232.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        13.78mil (0.35001mm)     Round          4                0.69 Inch (17.41 mm)
+T2        19.68mil (0.49987mm)     Round          6                1.10 Inch (28.05 mm)
+T3        27.56mil (0.70002mm)     Round          1                0.00 Inch (0.00 mm)
+T4        35.43mil (0.89992mm)     Round          11               2.29 Inch (58.24 mm)
+T5        36.22mil (0.91999mm)     Round          4                0.26 Inch (6.50 mm)
+T6        90.55mil (2.29997mm)     Round          2                0.47 Inch (12.04 mm)
+---------------------------------------------------------------------------
+Totals                                            28               4.81 Inch (122.23 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

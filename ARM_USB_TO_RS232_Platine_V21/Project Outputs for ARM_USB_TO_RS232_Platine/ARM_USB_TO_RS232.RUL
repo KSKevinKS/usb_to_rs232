@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: D:\Desktop\Schule\Diplomarbeit\V0_00_00\Hardware\Altium\ARM_USB_TO_RS232_Platine_V21_OK\ARM_USB_TO_RS232.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=VCC5V|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=VCC3.3V|Scope=Board|Minimum=39.37
